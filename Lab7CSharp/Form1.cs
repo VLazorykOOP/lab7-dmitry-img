@@ -53,7 +53,6 @@ namespace Lab7CSharp
             }
         }
         
-
         private void pictureBox1_Click(object sender, EventArgs e)
         {
             if (comboBox1.SelectedIndex != -1)
